@@ -1,12 +1,16 @@
+<<<<<<< HEAD
 # Site settings
-title:
-email:
-description: > # this means to ignore newlines until "baseurl:"
-baseurl: "" # the subpath of your site, e.g. /blog/
-url: "" # the base hostname & protocol for your site
+title: Amin Bashi
+email: hello@aminbashi.com
+description: Amin Bashi
+baseurl: / 
+url: aminbashi.com
 
-twitter_username:
-github_username:
+twitter_username: aminbashi
+github_username: amin15
 
 # Build settings
 markdown: kramdown
+=======
+theme: jekyll-theme-cayman
+>>>>>>>
